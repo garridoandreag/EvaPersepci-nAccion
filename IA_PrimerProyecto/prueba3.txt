@@ -1,0 +1,4 @@
+1,0,0,1,arriba
+0,1,1,0,abajo
+0,1,0,1,derecha
+1,0,1,0,izquierda
